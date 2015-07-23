@@ -1,4 +1,2 @@
-Git is a distributed version control system
-Git is the best
-master checking remote
-I am in dev now
+This is the first project I learned with git and python :)
+Please correct me if I made some stupid errors. Thanks!!!
